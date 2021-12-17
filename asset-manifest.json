@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e16032d7.chunk.css",
+    "main.js": "/static/js/main.e0510e70.chunk.js",
+    "main.js.map": "/static/js/main.e0510e70.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.c6919101.chunk.js": "/static/js/2.c6919101.chunk.js",
+    "static/js/2.c6919101.chunk.js.map": "/static/js/2.c6919101.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.88beac1d5fd4ac0dc9b25ff6260d4d3e.js": "/precache-manifest.88beac1d5fd4ac0dc9b25ff6260d4d3e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e16032d7.chunk.css.map": "/static/css/main.e16032d7.chunk.css.map",
+    "static/js/2.c6919101.chunk.js.LICENSE.txt": "/static/js/2.c6919101.chunk.js.LICENSE.txt",
+    "static/media/ncstate.png": "/static/media/ncstate.884e98a2.png",
+    "static/media/resume.pdf": "/static/media/resume.9d3da0e2.pdf",
+    "static/media/truman.jpg": "/static/media/truman.803d9b2b.jpg",
+    "static/media/zeezah.jpg": "/static/media/zeezah.fc840ce1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.c6919101.chunk.js",
+    "static/css/main.e16032d7.chunk.css",
+    "static/js/main.e0510e70.chunk.js"
+  ]
+}
